@@ -10,12 +10,14 @@ Crafted a Customer Demographics Analysis Dashboard for a bank using Power BI. Ex
 - Representation of different job classifications
 - Representation of genders
 - Representation of Marital status of customers
+  
 Page 1
 ![Page1](https://github.com/JanhviShephali/Data-Analytics-Portfolio/blob/main/Screenshots/Screenshot%202023-11-22%20195351.png)
+
 Page 2
 ![Page2](https://github.com/JanhviShephali/Data-Analytics-Portfolio/blob/main/Screenshots/Screenshot%202023-11-22%20195448.png)
 
-
+---
 # 2. Mahadev Ecommerce Sales Dashboard
 Crafted a dynamic sales performance report utilizing Power BI, showcasing key sales metrics, revenue trends, and product performance. Implemented interactive visualizations to aid stakeholders in making informed decisions and identifying growth opportunities.
 
@@ -29,6 +31,8 @@ Crafted a dynamic sales performance report utilizing Power BI, showcasing key sa
 
 Page-1
 ![Page1](https://github.com/JanhviShephali/Data-Analytics-Portfolio/blob/main/Screenshots/Screenshot%202023-11-22%20221159.png)
+
+---
 
 # 3. Strategic HR Insights Dashboard
 Developed an impactful HR analysis dashboard using Power BI, offering real-time insights into key metrics such as employee performance and retention. Enhanced data visualization for improved decision-making.
